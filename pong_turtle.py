@@ -6,7 +6,7 @@ import winsound
 """initializing"""
 window = turtle.Screen()
 window.title('pong')
-window.bgpic('photos/bg.png')
+#window.bgpic('photos/bg.png')
 window.bgcolor('black')
 window.setup(width=800, height=600)
 window.tracer(0)
